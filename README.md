@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Hari Bala 👋
 
-<!--
-**HariBala220428/HariBala220428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year B.Tech Information Technology Student at St. Joseph's College
 
-Here are some ideas to get you started:
+☁️ Aspiring Cloud Computing Engineer | 💻 Beginner Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🌱 Currently learning C programming and computer science fundamentals.
+
+☁️ Interested in cloud computing and cloud infrastructure.
+
+💡 Passionate about technology, problem-solving, and software development.
+
+🎯 Goal: Build practical projects and become a skilled software professional.
+
+🛠️ Skills & Interests
+
+Programming: C (Beginner)
+
+Interests: Cloud Computing, Software Development, Artificial Intelligence
+
+Tools: Git, GitHub, VS Code
+
+📌 Goals
+
+Learn cloud platforms such as AWS, Azure, or Google Cloud.
+
+Build projects and improve my coding skills.
+
+Explore open-source contributions.
+
+📫 Connect With Me
+
+GitHub: HariBala220428
+
+⭐ Learning, building, and growing every day!
